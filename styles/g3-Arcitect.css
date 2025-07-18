@@ -117,6 +117,37 @@ main > section {
     width: 530px;
     font-weight: 700;
  }
+/* features section style  */
+.features{
+    gap: 140px
+    ;
+}
+
+
+#features-section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 25px ;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.feature-card .feature-title{
+    font-weight: 600;
+    font-size:1.25rem ;
+ 
+
+}
+.feature-card{
+    border-radius: 8px;
+   box-shadow: 0 4px 30px 0px rgba(0, 0, 0, 0.06) ;
+   padding: 30px;
+   margin-bottom: 20px;
+}
+
+
+
+
+
+
 /* some facts related style  */
 .fact-card{
     border: 1px solid orange;
